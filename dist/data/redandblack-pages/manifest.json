@@ -1,0 +1,786 @@
+{
+  "version": 1,
+  "mode": "sequence",
+  "name": "redandblack",
+  "description": "Full Gaussian frames · imported from your training/reconstruction output",
+  "fps": 30.0,
+  "defaultQuality": "res8",
+  "qualities": [
+    {
+      "id": "res8",
+      "label": "res8"
+    },
+    {
+      "id": "res4",
+      "label": "res4"
+    },
+    {
+      "id": "res2",
+      "label": "res2"
+    },
+    {
+      "id": "res1",
+      "label": "res1"
+    }
+  ],
+  "transform": {
+    "rotationDegrees": [
+      -90.0,
+      0.0,
+      0.0
+    ],
+    "scale": 1
+  },
+  "frames": [
+    {
+      "id": 1450,
+      "assets": {
+        "res8": {
+          "url": "res8/001450.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001450.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001450.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001450.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1451,
+      "assets": {
+        "res8": {
+          "url": "res8/001451.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001451.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001451.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001451.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1452,
+      "assets": {
+        "res8": {
+          "url": "res8/001452.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001452.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001452.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001452.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1453,
+      "assets": {
+        "res8": {
+          "url": "res8/001453.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001453.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001453.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001453.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1454,
+      "assets": {
+        "res8": {
+          "url": "res8/001454.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001454.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001454.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001454.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1455,
+      "assets": {
+        "res8": {
+          "url": "res8/001455.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001455.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001455.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001455.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1456,
+      "assets": {
+        "res8": {
+          "url": "res8/001456.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001456.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001456.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001456.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1457,
+      "assets": {
+        "res8": {
+          "url": "res8/001457.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001457.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001457.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001457.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1458,
+      "assets": {
+        "res8": {
+          "url": "res8/001458.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001458.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001458.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001458.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1459,
+      "assets": {
+        "res8": {
+          "url": "res8/001459.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001459.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001459.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001459.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1460,
+      "assets": {
+        "res8": {
+          "url": "res8/001460.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001460.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001460.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001460.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1461,
+      "assets": {
+        "res8": {
+          "url": "res8/001461.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001461.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001461.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001461.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1462,
+      "assets": {
+        "res8": {
+          "url": "res8/001462.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001462.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001462.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001462.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1463,
+      "assets": {
+        "res8": {
+          "url": "res8/001463.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001463.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001463.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001463.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1464,
+      "assets": {
+        "res8": {
+          "url": "res8/001464.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001464.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001464.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001464.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1465,
+      "assets": {
+        "res8": {
+          "url": "res8/001465.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001465.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001465.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001465.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1466,
+      "assets": {
+        "res8": {
+          "url": "res8/001466.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001466.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001466.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001466.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1467,
+      "assets": {
+        "res8": {
+          "url": "res8/001467.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001467.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001467.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001467.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1468,
+      "assets": {
+        "res8": {
+          "url": "res8/001468.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001468.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001468.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001468.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1469,
+      "assets": {
+        "res8": {
+          "url": "res8/001469.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001469.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001469.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001469.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1470,
+      "assets": {
+        "res8": {
+          "url": "res8/001470.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001470.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001470.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001470.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1471,
+      "assets": {
+        "res8": {
+          "url": "res8/001471.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001471.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001471.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001471.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1472,
+      "assets": {
+        "res8": {
+          "url": "res8/001472.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001472.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001472.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001472.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1473,
+      "assets": {
+        "res8": {
+          "url": "res8/001473.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001473.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001473.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001473.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1474,
+      "assets": {
+        "res8": {
+          "url": "res8/001474.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001474.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001474.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001474.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1475,
+      "assets": {
+        "res8": {
+          "url": "res8/001475.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001475.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001475.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001475.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1476,
+      "assets": {
+        "res8": {
+          "url": "res8/001476.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001476.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001476.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001476.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1477,
+      "assets": {
+        "res8": {
+          "url": "res8/001477.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001477.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001477.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001477.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1478,
+      "assets": {
+        "res8": {
+          "url": "res8/001478.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001478.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001478.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001478.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    },
+    {
+      "id": 1479,
+      "assets": {
+        "res8": {
+          "url": "res8/001479.ply",
+          "format": "ply",
+          "bytes": 7281322
+        },
+        "res4": {
+          "url": "res4/001479.ply",
+          "format": "ply",
+          "bytes": 12712522
+        },
+        "res2": {
+          "url": "res2/001479.ply",
+          "format": "ply",
+          "bytes": 22168514
+        },
+        "res1": {
+          "url": "res1/001479.ply",
+          "format": "ply",
+          "bytes": 34545451
+        }
+      }
+    }
+  ]
+}
